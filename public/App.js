@@ -117,10 +117,10 @@ function(key){
   
     <div>
       <input type="text" />
-      <button>login</button>
+      
       
       <header  id="btn1" >bit box</header>
-      <h2 >PLAY ONLINE</h2>
+      <h2 >PLAY ONLINE now </h2>
       <div className='b'>
         <button id="btn2" > BD</button>
         
@@ -154,6 +154,7 @@ function(key){
   
 
 
+  // Similar to componentDidMount and componentDidUpdate:  useEffect(() => {    // Update the document title using the browser API    document.title = `You clicked ${count} times`;  });
  
   
              
