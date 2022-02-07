@@ -129,7 +129,7 @@ function(key){
         <button id='btn4'>crash</button>
         <button>claps</button>
         <button>tom1</button>
-        <button>tom2</button>
+        <button>tom 2</button>
         
         </div>
       
