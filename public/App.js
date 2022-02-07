@@ -124,7 +124,7 @@ function(key){
       <div className='b'>
         <button id="btn2" > BD</button>
         
-        <button id="btn3">HI</button>
+        <button id="btn3">HI1</button>
         <button id='btn4'>crash</button>
         <button>claps</button>
         <button>tom1</button>
