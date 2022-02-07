@@ -117,7 +117,7 @@ function(key){
   
     <div>
       <input type="text" />
-      <button>login</button>
+      
       
       <header  id="btn1" >bit box</header>
       <h2 >PLAY ONLINE</h2>
