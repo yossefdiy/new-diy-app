@@ -120,7 +120,7 @@ function(key){
       
       
       <header  id="btn1" >bit box</header>
-      <h2 >PLAY ONLINE now </h2>
+      <h2 >PLAY ONLINE now 1</h2>
       <div className='b'>
         <button id="btn2" > BD</button>
         
