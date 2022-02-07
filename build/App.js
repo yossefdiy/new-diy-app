@@ -123,7 +123,7 @@ function(key){
       <h2 >PLAY ONLINE</h2>
       <h3>keys:a s d f</h3>
       <div className='b'>
-        <button id="btn2" > BD</button>
+        <button id="btn2 " > BD</button>
         
         <button id="btn3">HI</button>
         <button id='btn4'>crash</button>
